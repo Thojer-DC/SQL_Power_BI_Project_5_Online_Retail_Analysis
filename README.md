@@ -122,15 +122,15 @@ CREATE TABLE retail
 ![Dashboard](https://github.com/Thojer-DC/SQL_Power_BI_Project_5_Online_Retail_Analysis/blob/main/Dashboard/Dashboard.png)
 
 
-## Findings and Conclusion
+## Findings
 
 - **Sales Trends Over Time:** Sales fluctuated over the months, with a clear peak during the month of (Septeber - December).
 - **Top 10 Products by Sales:** The top 10 products accounted for 30% of total sales. For example, Product 1 generated $206K, while Product 2 made $165K.
 - **Sales by Region:** The United kingdom is the top-performing region, contributing 50% of total sales.
 - **Customer Demographics and Buying Patterns:** A group of high-value customers is responsible for a large percentage of sales.
 
+## Conclusion
 - The analysis provided valuable insights into Online Retail performance. The recommendations focus on increasing sales during low months, enhancing customer loyalty, and targeting underperforming regions. Implementing these strategies could result in higher revenue and stronger customer engagement in the coming year.
-
 
 
 ## Project by Thomas Jericho Dela Cruz
