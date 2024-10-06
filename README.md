@@ -131,4 +131,6 @@ CREATE TABLE retail
 
 - The analysis provided valuable insights into Online Retail performance. The recommendations focus on increasing sales during low months, enhancing customer loyalty, and targeting underperforming regions. Implementing these strategies could result in higher revenue and stronger customer engagement in the coming year.
 
-- Project by Thomas Jericho Dela Cruz
+
+
+## Project by Thomas Jericho Dela Cruz
